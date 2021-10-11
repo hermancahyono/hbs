@@ -1,0 +1,4 @@
+baseURL = '/'
+languageCode = 'id'
+title = 'herman'
+theme = 'dream'
